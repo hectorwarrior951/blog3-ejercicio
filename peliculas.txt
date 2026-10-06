@@ -1,4 +1,8 @@
 La vida de Brian
 La Odisea
 Interstellar
+<<<<<<< HEAD
 Batman
+=======
+Lo imposible
+>>>>>>> 9f75f58 (Añadir pelicula El sentido de la vida)
